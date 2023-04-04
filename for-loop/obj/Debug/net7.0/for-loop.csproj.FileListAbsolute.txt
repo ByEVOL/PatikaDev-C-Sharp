@@ -1,0 +1,15 @@
+C:\Users\impos\Desktop\Dersler\C#\for-loop\bin\Debug\net7.0\for-loop.exe
+C:\Users\impos\Desktop\Dersler\C#\for-loop\bin\Debug\net7.0\for-loop.deps.json
+C:\Users\impos\Desktop\Dersler\C#\for-loop\bin\Debug\net7.0\for-loop.runtimeconfig.json
+C:\Users\impos\Desktop\Dersler\C#\for-loop\bin\Debug\net7.0\for-loop.dll
+C:\Users\impos\Desktop\Dersler\C#\for-loop\bin\Debug\net7.0\for-loop.pdb
+C:\Users\impos\Desktop\Dersler\C#\for-loop\obj\Debug\net7.0\for-loop.csproj.AssemblyReference.cache
+C:\Users\impos\Desktop\Dersler\C#\for-loop\obj\Debug\net7.0\for-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\impos\Desktop\Dersler\C#\for-loop\obj\Debug\net7.0\for-loop.AssemblyInfoInputs.cache
+C:\Users\impos\Desktop\Dersler\C#\for-loop\obj\Debug\net7.0\for-loop.AssemblyInfo.cs
+C:\Users\impos\Desktop\Dersler\C#\for-loop\obj\Debug\net7.0\for-loop.csproj.CoreCompileInputs.cache
+C:\Users\impos\Desktop\Dersler\C#\for-loop\obj\Debug\net7.0\for-loop.dll
+C:\Users\impos\Desktop\Dersler\C#\for-loop\obj\Debug\net7.0\refint\for-loop.dll
+C:\Users\impos\Desktop\Dersler\C#\for-loop\obj\Debug\net7.0\for-loop.pdb
+C:\Users\impos\Desktop\Dersler\C#\for-loop\obj\Debug\net7.0\for-loop.genruntimeconfig.cache
+C:\Users\impos\Desktop\Dersler\C#\for-loop\obj\Debug\net7.0\ref\for-loop.dll

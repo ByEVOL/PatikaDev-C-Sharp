@@ -1,0 +1,15 @@
+C:\Users\impos\Desktop\Dersler\C#\switch-case\bin\Debug\net7.0\switch-case.exe
+C:\Users\impos\Desktop\Dersler\C#\switch-case\bin\Debug\net7.0\switch-case.deps.json
+C:\Users\impos\Desktop\Dersler\C#\switch-case\bin\Debug\net7.0\switch-case.runtimeconfig.json
+C:\Users\impos\Desktop\Dersler\C#\switch-case\bin\Debug\net7.0\switch-case.dll
+C:\Users\impos\Desktop\Dersler\C#\switch-case\bin\Debug\net7.0\switch-case.pdb
+C:\Users\impos\Desktop\Dersler\C#\switch-case\obj\Debug\net7.0\switch-case.csproj.AssemblyReference.cache
+C:\Users\impos\Desktop\Dersler\C#\switch-case\obj\Debug\net7.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\impos\Desktop\Dersler\C#\switch-case\obj\Debug\net7.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\impos\Desktop\Dersler\C#\switch-case\obj\Debug\net7.0\switch-case.AssemblyInfo.cs
+C:\Users\impos\Desktop\Dersler\C#\switch-case\obj\Debug\net7.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\impos\Desktop\Dersler\C#\switch-case\obj\Debug\net7.0\switch-case.dll
+C:\Users\impos\Desktop\Dersler\C#\switch-case\obj\Debug\net7.0\refint\switch-case.dll
+C:\Users\impos\Desktop\Dersler\C#\switch-case\obj\Debug\net7.0\switch-case.pdb
+C:\Users\impos\Desktop\Dersler\C#\switch-case\obj\Debug\net7.0\switch-case.genruntimeconfig.cache
+C:\Users\impos\Desktop\Dersler\C#\switch-case\obj\Debug\net7.0\ref\switch-case.dll

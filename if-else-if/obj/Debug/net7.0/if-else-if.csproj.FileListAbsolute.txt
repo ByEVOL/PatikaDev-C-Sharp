@@ -1,0 +1,15 @@
+C:\Users\impos\Desktop\Dersler\C#\if-else-if\bin\Debug\net7.0\if-else-if.exe
+C:\Users\impos\Desktop\Dersler\C#\if-else-if\bin\Debug\net7.0\if-else-if.deps.json
+C:\Users\impos\Desktop\Dersler\C#\if-else-if\bin\Debug\net7.0\if-else-if.runtimeconfig.json
+C:\Users\impos\Desktop\Dersler\C#\if-else-if\bin\Debug\net7.0\if-else-if.dll
+C:\Users\impos\Desktop\Dersler\C#\if-else-if\bin\Debug\net7.0\if-else-if.pdb
+C:\Users\impos\Desktop\Dersler\C#\if-else-if\obj\Debug\net7.0\if-else-if.csproj.AssemblyReference.cache
+C:\Users\impos\Desktop\Dersler\C#\if-else-if\obj\Debug\net7.0\if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\impos\Desktop\Dersler\C#\if-else-if\obj\Debug\net7.0\if-else-if.AssemblyInfoInputs.cache
+C:\Users\impos\Desktop\Dersler\C#\if-else-if\obj\Debug\net7.0\if-else-if.AssemblyInfo.cs
+C:\Users\impos\Desktop\Dersler\C#\if-else-if\obj\Debug\net7.0\if-else-if.csproj.CoreCompileInputs.cache
+C:\Users\impos\Desktop\Dersler\C#\if-else-if\obj\Debug\net7.0\if-else-if.dll
+C:\Users\impos\Desktop\Dersler\C#\if-else-if\obj\Debug\net7.0\refint\if-else-if.dll
+C:\Users\impos\Desktop\Dersler\C#\if-else-if\obj\Debug\net7.0\if-else-if.pdb
+C:\Users\impos\Desktop\Dersler\C#\if-else-if\obj\Debug\net7.0\if-else-if.genruntimeconfig.cache
+C:\Users\impos\Desktop\Dersler\C#\if-else-if\obj\Debug\net7.0\ref\if-else-if.dll
