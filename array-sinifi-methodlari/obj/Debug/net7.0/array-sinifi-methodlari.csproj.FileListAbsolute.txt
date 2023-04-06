@@ -1,0 +1,15 @@
+C:\Users\impos\Desktop\Dersler\C#\array-sinifi-methodlari\bin\Debug\net7.0\array-sinifi-methodlari.exe
+C:\Users\impos\Desktop\Dersler\C#\array-sinifi-methodlari\bin\Debug\net7.0\array-sinifi-methodlari.deps.json
+C:\Users\impos\Desktop\Dersler\C#\array-sinifi-methodlari\bin\Debug\net7.0\array-sinifi-methodlari.runtimeconfig.json
+C:\Users\impos\Desktop\Dersler\C#\array-sinifi-methodlari\bin\Debug\net7.0\array-sinifi-methodlari.dll
+C:\Users\impos\Desktop\Dersler\C#\array-sinifi-methodlari\bin\Debug\net7.0\array-sinifi-methodlari.pdb
+C:\Users\impos\Desktop\Dersler\C#\array-sinifi-methodlari\obj\Debug\net7.0\array-sinifi-methodlari.csproj.AssemblyReference.cache
+C:\Users\impos\Desktop\Dersler\C#\array-sinifi-methodlari\obj\Debug\net7.0\array-sinifi-methodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\impos\Desktop\Dersler\C#\array-sinifi-methodlari\obj\Debug\net7.0\array-sinifi-methodlari.AssemblyInfoInputs.cache
+C:\Users\impos\Desktop\Dersler\C#\array-sinifi-methodlari\obj\Debug\net7.0\array-sinifi-methodlari.AssemblyInfo.cs
+C:\Users\impos\Desktop\Dersler\C#\array-sinifi-methodlari\obj\Debug\net7.0\array-sinifi-methodlari.csproj.CoreCompileInputs.cache
+C:\Users\impos\Desktop\Dersler\C#\array-sinifi-methodlari\obj\Debug\net7.0\array-sinifi-methodlari.dll
+C:\Users\impos\Desktop\Dersler\C#\array-sinifi-methodlari\obj\Debug\net7.0\refint\array-sinifi-methodlari.dll
+C:\Users\impos\Desktop\Dersler\C#\array-sinifi-methodlari\obj\Debug\net7.0\array-sinifi-methodlari.pdb
+C:\Users\impos\Desktop\Dersler\C#\array-sinifi-methodlari\obj\Debug\net7.0\array-sinifi-methodlari.genruntimeconfig.cache
+C:\Users\impos\Desktop\Dersler\C#\array-sinifi-methodlari\obj\Debug\net7.0\ref\array-sinifi-methodlari.dll
