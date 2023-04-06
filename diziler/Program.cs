@@ -42,24 +42,28 @@ Console.WriteLine("Ortalama : " + toplam / diziUzunlugu);
 
 // Hacker rank çözümü
 
-int diziUzunlugu1 = int.Parse(Console.ReadLine());
-int[] sayiDizisi1 = new int[diziUzunlugu1];
-
-for (int i = 0; i < diziUzunlugu1; i++)
+class Solution
 {
-      sayiDizisi1[i] = int.Parse(Console.ReadLine());
+    public static void Main(string[] args)
+    {
+int diziUzunlugu = int.Parse(Console.ReadLine());
+int[] sayiDizisi = new int[diziUzunlugu];
+
+for (int i = 0; i < diziUzunlugu; i++)
+{
+      sayiDizisi[i] = int.Parse(Console.ReadLine());
 }
    
             var positiveNumbers = 0;
             var negativeNumbers = 0;
             var zeroNumbers = 0;
-            int arraylength = sayiDizisi1.Count();
+            int arraylength = diziUzunlugu;
 
-            for (int i = 0; i < sayiDizisi1.Count(); i++)
+            for (int i = 0; i < diziUzunlugu; i++)
             {
-                if (sayiDizisi1[i] > 0)
+                if (sayiDizisi[i] > 0)
                     positiveNumbers++;
-                else if (sayiDizisi1[i] < 0)
+                else if (sayiDizisi[i] < 0)
                     negativeNumbers++;
                 else
                     zeroNumbers++;
@@ -68,4 +72,7 @@ for (int i = 0; i < diziUzunlugu1; i++)
             Console.WriteLine(Math.Round((double)positiveNumbers / arraylength, 6));
             Console.WriteLine(Math.Round((double)negativeNumbers / arraylength,6));
             Console.WriteLine(Math.Round((double)zeroNumbers / arraylength, 6 ));
+    }
+}
+
     
