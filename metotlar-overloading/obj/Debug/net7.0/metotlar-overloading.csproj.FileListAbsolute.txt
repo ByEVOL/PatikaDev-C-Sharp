@@ -1,0 +1,15 @@
+C:\Users\impos\Desktop\Dersler\C#\metotlar-overloading\obj\Debug\net7.0\metotlar-overloading.csproj.AssemblyReference.cache
+C:\Users\impos\Desktop\Dersler\C#\metotlar-overloading\obj\Debug\net7.0\metotlar-overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\impos\Desktop\Dersler\C#\metotlar-overloading\obj\Debug\net7.0\metotlar-overloading.AssemblyInfoInputs.cache
+C:\Users\impos\Desktop\Dersler\C#\metotlar-overloading\obj\Debug\net7.0\metotlar-overloading.AssemblyInfo.cs
+C:\Users\impos\Desktop\Dersler\C#\metotlar-overloading\obj\Debug\net7.0\metotlar-overloading.csproj.CoreCompileInputs.cache
+C:\Users\impos\Desktop\Dersler\C#\metotlar-overloading\bin\Debug\net7.0\metotlar-overloading.exe
+C:\Users\impos\Desktop\Dersler\C#\metotlar-overloading\bin\Debug\net7.0\metotlar-overloading.deps.json
+C:\Users\impos\Desktop\Dersler\C#\metotlar-overloading\bin\Debug\net7.0\metotlar-overloading.runtimeconfig.json
+C:\Users\impos\Desktop\Dersler\C#\metotlar-overloading\bin\Debug\net7.0\metotlar-overloading.dll
+C:\Users\impos\Desktop\Dersler\C#\metotlar-overloading\bin\Debug\net7.0\metotlar-overloading.pdb
+C:\Users\impos\Desktop\Dersler\C#\metotlar-overloading\obj\Debug\net7.0\metotlar-overloading.dll
+C:\Users\impos\Desktop\Dersler\C#\metotlar-overloading\obj\Debug\net7.0\refint\metotlar-overloading.dll
+C:\Users\impos\Desktop\Dersler\C#\metotlar-overloading\obj\Debug\net7.0\metotlar-overloading.pdb
+C:\Users\impos\Desktop\Dersler\C#\metotlar-overloading\obj\Debug\net7.0\metotlar-overloading.genruntimeconfig.cache
+C:\Users\impos\Desktop\Dersler\C#\metotlar-overloading\obj\Debug\net7.0\ref\metotlar-overloading.dll
