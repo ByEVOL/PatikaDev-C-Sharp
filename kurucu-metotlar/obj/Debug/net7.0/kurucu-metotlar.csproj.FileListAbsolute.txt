@@ -1,0 +1,15 @@
+C:\Users\impos\Desktop\Dersler\C#\kurucu-metotlar\bin\Debug\net7.0\kurucu-metotlar.exe
+C:\Users\impos\Desktop\Dersler\C#\kurucu-metotlar\bin\Debug\net7.0\kurucu-metotlar.deps.json
+C:\Users\impos\Desktop\Dersler\C#\kurucu-metotlar\bin\Debug\net7.0\kurucu-metotlar.runtimeconfig.json
+C:\Users\impos\Desktop\Dersler\C#\kurucu-metotlar\bin\Debug\net7.0\kurucu-metotlar.dll
+C:\Users\impos\Desktop\Dersler\C#\kurucu-metotlar\bin\Debug\net7.0\kurucu-metotlar.pdb
+C:\Users\impos\Desktop\Dersler\C#\kurucu-metotlar\obj\Debug\net7.0\kurucu-metotlar.csproj.AssemblyReference.cache
+C:\Users\impos\Desktop\Dersler\C#\kurucu-metotlar\obj\Debug\net7.0\kurucu-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\impos\Desktop\Dersler\C#\kurucu-metotlar\obj\Debug\net7.0\kurucu-metotlar.AssemblyInfoInputs.cache
+C:\Users\impos\Desktop\Dersler\C#\kurucu-metotlar\obj\Debug\net7.0\kurucu-metotlar.AssemblyInfo.cs
+C:\Users\impos\Desktop\Dersler\C#\kurucu-metotlar\obj\Debug\net7.0\kurucu-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\impos\Desktop\Dersler\C#\kurucu-metotlar\obj\Debug\net7.0\kurucu-metotlar.dll
+C:\Users\impos\Desktop\Dersler\C#\kurucu-metotlar\obj\Debug\net7.0\refint\kurucu-metotlar.dll
+C:\Users\impos\Desktop\Dersler\C#\kurucu-metotlar\obj\Debug\net7.0\kurucu-metotlar.pdb
+C:\Users\impos\Desktop\Dersler\C#\kurucu-metotlar\obj\Debug\net7.0\kurucu-metotlar.genruntimeconfig.cache
+C:\Users\impos\Desktop\Dersler\C#\kurucu-metotlar\obj\Debug\net7.0\ref\kurucu-metotlar.dll
