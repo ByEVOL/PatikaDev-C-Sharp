@@ -1,0 +1,15 @@
+C:\Users\impos\Desktop\Dersler\C#\encapsulation\bin\Debug\net7.0\encapsulation.exe
+C:\Users\impos\Desktop\Dersler\C#\encapsulation\bin\Debug\net7.0\encapsulation.deps.json
+C:\Users\impos\Desktop\Dersler\C#\encapsulation\bin\Debug\net7.0\encapsulation.runtimeconfig.json
+C:\Users\impos\Desktop\Dersler\C#\encapsulation\bin\Debug\net7.0\encapsulation.dll
+C:\Users\impos\Desktop\Dersler\C#\encapsulation\bin\Debug\net7.0\encapsulation.pdb
+C:\Users\impos\Desktop\Dersler\C#\encapsulation\obj\Debug\net7.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\impos\Desktop\Dersler\C#\encapsulation\obj\Debug\net7.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\impos\Desktop\Dersler\C#\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\impos\Desktop\Dersler\C#\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfo.cs
+C:\Users\impos\Desktop\Dersler\C#\encapsulation\obj\Debug\net7.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\impos\Desktop\Dersler\C#\encapsulation\obj\Debug\net7.0\encapsulation.dll
+C:\Users\impos\Desktop\Dersler\C#\encapsulation\obj\Debug\net7.0\refint\encapsulation.dll
+C:\Users\impos\Desktop\Dersler\C#\encapsulation\obj\Debug\net7.0\encapsulation.pdb
+C:\Users\impos\Desktop\Dersler\C#\encapsulation\obj\Debug\net7.0\encapsulation.genruntimeconfig.cache
+C:\Users\impos\Desktop\Dersler\C#\encapsulation\obj\Debug\net7.0\ref\encapsulation.dll
