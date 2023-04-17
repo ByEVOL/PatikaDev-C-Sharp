@@ -1,0 +1,15 @@
+C:\Users\impos\Desktop\Dersler\C#\enum\bin\Debug\net7.0\enum.exe
+C:\Users\impos\Desktop\Dersler\C#\enum\bin\Debug\net7.0\enum.deps.json
+C:\Users\impos\Desktop\Dersler\C#\enum\bin\Debug\net7.0\enum.runtimeconfig.json
+C:\Users\impos\Desktop\Dersler\C#\enum\bin\Debug\net7.0\enum.dll
+C:\Users\impos\Desktop\Dersler\C#\enum\bin\Debug\net7.0\enum.pdb
+C:\Users\impos\Desktop\Dersler\C#\enum\obj\Debug\net7.0\enum.csproj.AssemblyReference.cache
+C:\Users\impos\Desktop\Dersler\C#\enum\obj\Debug\net7.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\impos\Desktop\Dersler\C#\enum\obj\Debug\net7.0\enum.AssemblyInfoInputs.cache
+C:\Users\impos\Desktop\Dersler\C#\enum\obj\Debug\net7.0\enum.AssemblyInfo.cs
+C:\Users\impos\Desktop\Dersler\C#\enum\obj\Debug\net7.0\enum.csproj.CoreCompileInputs.cache
+C:\Users\impos\Desktop\Dersler\C#\enum\obj\Debug\net7.0\enum.dll
+C:\Users\impos\Desktop\Dersler\C#\enum\obj\Debug\net7.0\refint\enum.dll
+C:\Users\impos\Desktop\Dersler\C#\enum\obj\Debug\net7.0\enum.pdb
+C:\Users\impos\Desktop\Dersler\C#\enum\obj\Debug\net7.0\enum.genruntimeconfig.cache
+C:\Users\impos\Desktop\Dersler\C#\enum\obj\Debug\net7.0\ref\enum.dll
